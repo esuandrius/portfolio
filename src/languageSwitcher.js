@@ -15,8 +15,8 @@ const LanguageSwitcher = () => {
       <nav className="">
         <span className="">
           <select className="language-select" onClick={changeLanguage}>
-            <option value="en">EN</option>
             <option value="lt">LT</option>
+            <option value="en">EN</option>
           </select>
         </span>
       </nav>
