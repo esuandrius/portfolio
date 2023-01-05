@@ -1,3 +1,7 @@
+# About
+
+Simple portfolio website, with multi-language ability, CV included.React JS, CSS and HTML only
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
