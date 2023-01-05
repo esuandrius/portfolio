@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dd94fb6.css",
+    "main.js": "/static/js/main.b5b9a0ea.js",
+    "static/media/html-page.PNG": "/static/media/html-page.720cac10a1ca4a5b5e9e.PNG",
+    "static/media/Andrius CV LT.pdf": "/static/media/Andrius CV LT.4c04248731821f1ff29e.pdf",
+    "static/media/Andrius CV EN.pdf": "/static/media/Andrius CV EN.f132b686dad5aff3dd1f.pdf",
+    "static/media/about.jpg": "/static/media/about.9d0f754d4eb80ce4aaad.jpg",
+    "static/media/andrius.png": "/static/media/andrius.3e5f10c7f12196850a91.png",
+    "static/media/CodeAcademy Java diplomas.pdf": "/static/media/CodeAcademy Java diplomas.466989f6455979a9eb94.pdf",
+    "index.html": "/index.html",
+    "main.3dd94fb6.css.map": "/static/css/main.3dd94fb6.css.map",
+    "main.b5b9a0ea.js.map": "/static/js/main.b5b9a0ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd94fb6.css",
+    "static/js/main.b5b9a0ea.js"
+  ]
+}
