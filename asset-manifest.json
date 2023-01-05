@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e4f5e6e9.css",
-    "main.js": "/portfolio/static/js/main.c399954f.js",
+    "main.css": "/portfolio/static/css/main.d7c2b19a.css",
+    "main.js": "/portfolio/static/js/main.7660d8a9.js",
     "static/media/html-page.PNG": "/portfolio/static/media/html-page.720cac10a1ca4a5b5e9e.PNG",
     "static/media/Andrius CV LT.pdf": "/portfolio/static/media/Andrius CV LT.4c04248731821f1ff29e.pdf",
     "static/media/Andrius CV EN.pdf": "/portfolio/static/media/Andrius CV EN.f132b686dad5aff3dd1f.pdf",
@@ -9,11 +9,11 @@
     "static/media/andrius.png": "/portfolio/static/media/andrius.3e5f10c7f12196850a91.png",
     "static/media/CodeAcademy Java diplomas.pdf": "/portfolio/static/media/CodeAcademy Java diplomas.466989f6455979a9eb94.pdf",
     "index.html": "/portfolio/index.html",
-    "main.e4f5e6e9.css.map": "/portfolio/static/css/main.e4f5e6e9.css.map",
-    "main.c399954f.js.map": "/portfolio/static/js/main.c399954f.js.map"
+    "main.d7c2b19a.css.map": "/portfolio/static/css/main.d7c2b19a.css.map",
+    "main.7660d8a9.js.map": "/portfolio/static/js/main.7660d8a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f5e6e9.css",
-    "static/js/main.c399954f.js"
+    "static/css/main.d7c2b19a.css",
+    "static/js/main.7660d8a9.js"
   ]
 }
