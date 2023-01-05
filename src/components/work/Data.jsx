@@ -3,9 +3,9 @@
 import i18next from "../../i18n";
 
 import Work1 from "../../assets/html-page.PNG";
+import Work2 from "../../assets/portfolio-website.PNG";
 // import Work2 from "../../assets/Work1.jpg";
 // import Work3 from "../../assets/Work1.jpg";
-// import Work4 from "../../assets/Work1.jpg";
 
 // Portfolio projects
 export const projectsData = [
@@ -29,26 +29,26 @@ export const projectsData = [
   //   link: "",
   //   code: "",
   // },
-  // {
-  //   id: 3,
-  //   image: Work4,
-  //   title: "Blog page",
-  //   description:
-  //     "Very simple blog page about traveling, using React, Spring Boot, MySQL database",
-  //   category: "Spring + React",
-  //   link: "",
-  //   code: "",
-  // },
   {
-    id: 4,
-    image: Work1,
-    title: "Rekvizitinis puslapis",
+    id: 3,
+    image: Work2,
+    title: "Portfolio puslapis",
     description:
-      "Mano pirmas sukurtas statinis puslapis, turint minimalias CSS ir HTML žinias",
-    category: "HTML + CSS",
-    link: "https://esuandrius.github.io/inspiration/",
-    code: "https://github.com/esuandrius/inspiration",
+      "Paprastas portfolio puslapis, padarytas naudojant React Js, HTML ir CSS. Dvi kalbos - lietuvių ir anglų.",
+    category: "React + HTML + CSS",
+    link: "https://esuandrius.github.io/portfolio/",
+    code: "https://github.com/esuandrius/portfolio",
   },
+  // {
+  //   id: 4,
+  //   image: Work1,
+  //   title: "Rekvizitinis puslapis",
+  //   description:
+  //     "Mano pirmas sukurtas statinis puslapis, turint minimalias CSS ir HTML žinias",
+  //   category: "React + HTML + CSS",
+  //   link: "https://esuandrius.github.io/inspiration/",
+  //   code: "https://github.com/esuandrius/inspiration",
+  // },
 ];
 
 //portfolio works categories
@@ -63,6 +63,6 @@ export const projectsNav = [
     name: "Spring + React",
   },
   {
-    name: "HTML + CSS",
+    name: "React + HTML + CSS",
   },
 ];

@@ -23,6 +23,7 @@ const About = () => {
 
           <span className="about__description">{t("cv-and-certificate")}</span>
           <br />
+          <br />
           <a
             download=""
             href={CVLT}
