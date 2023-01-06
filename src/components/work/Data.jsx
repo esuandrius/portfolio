@@ -2,40 +2,39 @@
 // import { t } from "i18next";
 import i18next from "../../i18n";
 
-import Work1 from "../../assets/html-page.PNG";
 import Work2 from "../../assets/portfolio-website.PNG";
-// import Work2 from "../../assets/Work1.jpg";
-// import Work3 from "../../assets/Work1.jpg";
+import Work3 from "../../assets/Invoice.PNG";
+import Work4 from "../../assets/Invoice-backend.PNG";
 
 // Portfolio projects
 export const projectsData = [
-  // {
-  //   id: 1,
-  //   image: Work2,
-  //   title: "Books data table",
-  //   description:
-  //     "Simple Books data table using React, Spring Boot and MySQL database",
-  //   category: "Spring + React",
-  //   link: "",
-  //   code: "",
-  // },
-  // {
-  //   id: 2,
-  //   image: Work3,
-  //   title: "Students data table",
-  //   description:
-  //     "Simple University data table using Spring Boot, ThymeLeaf and MySQL database",
-  //   category: "Spring",
-  //   link: "",
-  //   code: "",
-  // },
+  {
+    id: 1,
+    image: Work4,
+    title: "Sąskaitų išrašymo puslapis. BackEnd dalis",
+    description:
+      "Baigiamasis darbas, kurį rašiau su kolegomis. Sąskaitų išrašymo puslapis. BackEnd darytas su Spring + MySQL",
+    category: "Spring",
+    link: "https://github.com/esuandrius/invoice-backend",
+    code: "https://github.com/esuandrius/invoice-backend",
+  },
+  {
+    id: 2,
+    image: Work3,
+    title: "Sąskaitų išrašymo puslapis. FrontEnd dalis",
+    description:
+      "Baigiamasis darbas, kurį rašiau su kolegomis. Sąskaitų išrašymo puslapis. FrontEnd darytas su React",
+    category: "React",
+    link: "https://github.com/esuandrius/invoice-frontend",
+    code: "https://github.com/esuandrius/invoice-frontend",
+  },
   {
     id: 3,
     image: Work2,
     title: "Portfolio puslapis",
     description:
       "Paprastas portfolio puslapis, padarytas naudojant React Js, HTML ir CSS. Dvi kalbos - lietuvių ir anglų.",
-    category: "React + HTML + CSS",
+    category: "React",
     link: "https://esuandrius.github.io/portfolio/",
     code: "https://github.com/esuandrius/portfolio",
   },
@@ -51,7 +50,7 @@ export const projectsData = [
   // },
 ];
 
-//portfolio works categories
+//portfolio categories
 export const projectsNav = [
   {
     name: "Visi",
@@ -60,9 +59,9 @@ export const projectsNav = [
     name: "Spring",
   },
   {
-    name: "Spring + React",
+    name: "React",
   },
   {
-    name: "React + HTML + CSS",
+    name: "Spring + React",
   },
 ];

@@ -17,8 +17,8 @@
   "certificate": "Sertifikatas",
   "java-certificate": "Java kursų sertifikatas",
   "my-technical-level": "Mano techninis lygis",
-  "frontend": "Priekinė pusė",
-  "backend": "Nugarinė pusė",
+  "frontend": "Frontend",
+  "backend": "Backend",
   "beginner": "Pradinis",
   "intermediate": "Vidutinis",
   "advanced": "Pažengęs",
@@ -42,5 +42,5 @@
   "your-email": "Jūsų Paštas",
   "your-message": "Jūsų Žinutė",
   "send": "Išsiųsti",
-  "copyright": "© Įkvėpimas. Visos teisės saugomos, 2023"
+  "copyright": "© Inspiration. Visos teisės saugomos, 2023"
 }
