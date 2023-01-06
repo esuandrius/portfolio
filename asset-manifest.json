@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d7c2b19a.css",
-    "main.js": "/portfolio/static/js/main.193ff290.js",
+    "main.js": "/portfolio/static/js/main.4048aca1.js",
     "static/media/html-page.PNG": "/portfolio/static/media/html-page.720cac10a1ca4a5b5e9e.PNG",
-    "static/media/Andrius CV LT.pdf": "/portfolio/static/media/Andrius CV LT.4c04248731821f1ff29e.pdf",
-    "static/media/Andrius CV EN.pdf": "/portfolio/static/media/Andrius CV EN.f132b686dad5aff3dd1f.pdf",
+    "static/media/Andrius CV LT.pdf": "/portfolio/static/media/Andrius CV LT.ef07f02036f30dc7305b.pdf",
+    "static/media/Andrius CV EN.pdf": "/portfolio/static/media/Andrius CV EN.4cb65c8c356137f98865.pdf",
     "static/media/about.jpg": "/portfolio/static/media/about.9d0f754d4eb80ce4aaad.jpg",
     "static/media/andrius.png": "/portfolio/static/media/andrius.3e5f10c7f12196850a91.png",
     "static/media/CodeAcademy Java diplomas.pdf": "/portfolio/static/media/CodeAcademy Java diplomas.466989f6455979a9eb94.pdf",
     "static/media/portfolio-website.PNG": "/portfolio/static/media/portfolio-website.e05db9c8c1383aa59486.PNG",
     "index.html": "/portfolio/index.html",
     "main.d7c2b19a.css.map": "/portfolio/static/css/main.d7c2b19a.css.map",
-    "main.193ff290.js.map": "/portfolio/static/js/main.193ff290.js.map"
+    "main.4048aca1.js.map": "/portfolio/static/js/main.4048aca1.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c2b19a.css",
-    "static/js/main.193ff290.js"
+    "static/js/main.4048aca1.js"
   ]
 }
