@@ -10,6 +10,8 @@ import Footer from "./components/footer/Footer";
 import { withTranslation } from "react-i18next";
 import LanguageSwitcher from "./languageSwitcher";
 
+// testas
+
 const App = () => {
   return (
     <>
