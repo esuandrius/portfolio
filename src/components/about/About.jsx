@@ -45,7 +45,7 @@ const About = () => {
           <a
             download=""
             href={Diploma}
-            className="button button--flex button-cv"
+            className="button button--flex button-cv button-cv-certificate"
             title={t("java-certificate")}
           >
             {t("certificate")}
