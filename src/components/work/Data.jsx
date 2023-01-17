@@ -2,6 +2,7 @@
 // import { t } from "i18next";
 import i18next from "../../i18n";
 
+import Work1 from "../../assets/investment calculator.PNG";
 import Work2 from "../../assets/portfolio-website.PNG";
 import Work3 from "../../assets/Invoice.PNG";
 import Work4 from "../../assets/Invoice-backend.PNG";
@@ -33,21 +34,21 @@ export const projectsData = [
     image: Work2,
     title: "Portfolio puslapis",
     description:
-      "Paprastas portfolio puslapis, padarytas naudojant React Js, HTML ir CSS. Dvi kalbos - lietuvių ir anglų.",
+      "Paprastas portfolio puslapis, padarytas naudojant React JS, HTML ir CSS. Dvi kalbos - lietuvių ir anglų.",
     category: "React",
     link: "https://esuandrius.github.io/portfolio/",
     code: "https://github.com/esuandrius/portfolio",
   },
-  // {
-  //   id: 4,
-  //   image: Work1,
-  //   title: "Rekvizitinis puslapis",
-  //   description:
-  //     "Mano pirmas sukurtas statinis puslapis, turint minimalias CSS ir HTML žinias",
-  //   category: "React + HTML + CSS",
-  //   link: "https://esuandrius.github.io/inspiration/",
-  //   code: "https://github.com/esuandrius/inspiration",
-  // },
+  {
+    id: 4,
+    image: Work1,
+    title: "Investicijų skaičiuoklė",
+    description:
+      "Paprasta Ethereum investicijų skaičiuoklė, padaryta su Spring + ThymeLeaf. CSV failo exporto galimybė.",
+    category: "Spring",
+    link: "https://esuandrius.github.io/RewardCalculator/",
+    code: "https://github.com/esuandrius/RewardCalculator",
+  },
 ];
 
 //portfolio categories
