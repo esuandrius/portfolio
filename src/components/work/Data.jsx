@@ -46,7 +46,7 @@ export const projectsData = [
     description:
       "Paprasta Ethereum investicijų skaičiuoklė, padaryta su Spring + ThymeLeaf. CSV failo exporto galimybė.",
     category: "Spring",
-    link: "https://esuandrius.github.io/RewardCalculator/",
+    link: "https://reward-calculator.herokuapp.com/calculator",
     code: "https://github.com/esuandrius/RewardCalculator",
   },
 ];
