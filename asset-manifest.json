@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ebbdac3c.css",
+    "main.css": "/portfolio/static/css/main.760766cb.css",
     "main.js": "/portfolio/static/js/main.8e0c18c7.js",
     "static/media/Andrius CV LT.pdf": "/portfolio/static/media/Andrius CV LT.ef07f02036f30dc7305b.pdf",
     "static/media/Invoice.PNG": "/portfolio/static/media/Invoice.5cdc717f2a754b0fcd22.PNG",
@@ -12,11 +12,11 @@
     "static/media/portfolio-website.PNG": "/portfolio/static/media/portfolio-website.e05db9c8c1383aa59486.PNG",
     "static/media/investment calculator.PNG": "/portfolio/static/media/investment calculator.66b5250b61fbd45a2811.PNG",
     "index.html": "/portfolio/index.html",
-    "main.ebbdac3c.css.map": "/portfolio/static/css/main.ebbdac3c.css.map",
+    "main.760766cb.css.map": "/portfolio/static/css/main.760766cb.css.map",
     "main.8e0c18c7.js.map": "/portfolio/static/js/main.8e0c18c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebbdac3c.css",
+    "static/css/main.760766cb.css",
     "static/js/main.8e0c18c7.js"
   ]
 }
