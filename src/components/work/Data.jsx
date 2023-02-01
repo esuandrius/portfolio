@@ -6,6 +6,7 @@ import Work1 from "../../assets/investment calculator.PNG";
 import Work2 from "../../assets/portfolio-website.PNG";
 import Work3 from "../../assets/Invoice.PNG";
 import Work4 from "../../assets/Invoice-backend.PNG";
+import Work5 from "../../assets/csv-upload.PNG";
 
 // Portfolio projects
 export const projectsData = [
@@ -48,6 +49,16 @@ export const projectsData = [
     category: "Spring",
     link: "https://reward-calculator.herokuapp.com/calculator",
     code: "https://github.com/esuandrius/RewardCalculator",
+  },
+  {
+    id: 5,
+    image: Work5,
+    title: "CSV failo užkrovimas",
+    description:
+      "CSV failo su darbuotojų informacija įkėlimas React, perdavimas į Spring, kur informacija įrašoma į H2 duomenų bazę. Tuomet duomenys grąžinami atgal į React ir vizualizuojami HTML lentelėje",
+    category: "Spring + React",
+    link: "https://github.com/esuandrius/CSV-Upload",
+    code: "https://github.com/esuandrius/CSV-Upload",
   },
 ];
 

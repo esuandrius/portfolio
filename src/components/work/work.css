@@ -36,7 +36,7 @@
 
 .work__img {
   border: 1px solid rgba(0, 0, 0, 0.1);
-  width: 295px;
+  width: auto;
   height: 200px;
   border-radius: 1rem;
   margin-bottom: var(--mb-1);
