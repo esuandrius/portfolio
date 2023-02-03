@@ -12,12 +12,14 @@ const WorkItems = ({ item }) => {
 
   return (
     <div className="work__card" key={item.id}>
-      <img
-        src={item.image}
-        alt="html-website"
-        className="work__img"
-        onClick={imageClick}
-      />
+      <div className="img__container">
+        <img
+          src={item.image}
+          alt="html-website"
+          className="work__img"
+          onClick={imageClick}
+        />
+      </div>
       <h3 className="work__title">{item.title}</h3>
       <p className="work__description">{item.description}</p>
       <a href={item.link} className="work__button" target="_blank">
