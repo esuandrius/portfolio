@@ -25,7 +25,7 @@ const About = () => {
           <br />
           <br />
           <a
-            download=""
+            download="Andrius Adomaitis CV LT"
             href={CVLT}
             className="button button--flex button-cv"
             title={t("CV-LT")}
@@ -34,7 +34,7 @@ const About = () => {
             <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
           </a>
           <a
-            download=""
+            download="Andrius Adomaitis CV EN"
             href={CVEN}
             className="button button--flex button-cv"
             title={t("CV-EN")}
@@ -43,7 +43,7 @@ const About = () => {
             <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
           </a>
           <a
-            download=""
+            download="CodeAcademy Java diplomas"
             href={Diploma}
             className="button button--flex button-cv button-cv-certificate"
             title={t("java-certificate")}
