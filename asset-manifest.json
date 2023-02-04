@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.59b38302.css",
-    "main.js": "/portfolio/static/js/main.b6a8685d.js",
+    "main.css": "/portfolio/static/css/main.74ac6619.css",
+    "main.js": "/portfolio/static/js/main.9e8f9082.js",
     "static/media/Andrius Adomaitis CV LT.pdf": "/portfolio/static/media/Andrius Adomaitis CV LT.f40694280d802199931a.pdf",
     "static/media/Invoice.PNG": "/portfolio/static/media/Invoice.5cdc717f2a754b0fcd22.PNG",
     "static/media/Andrius Adomaitis CV EN.pdf": "/portfolio/static/media/Andrius Adomaitis CV EN.f7a1c2c4dd194a2dcaab.pdf",
@@ -13,11 +13,11 @@
     "static/media/investment calculator.PNG": "/portfolio/static/media/investment calculator.66b5250b61fbd45a2811.PNG",
     "static/media/csv-upload.PNG": "/portfolio/static/media/csv-upload.8b31c937158d34bffcaf.PNG",
     "index.html": "/portfolio/index.html",
-    "main.59b38302.css.map": "/portfolio/static/css/main.59b38302.css.map",
-    "main.b6a8685d.js.map": "/portfolio/static/js/main.b6a8685d.js.map"
+    "main.74ac6619.css.map": "/portfolio/static/css/main.74ac6619.css.map",
+    "main.9e8f9082.js.map": "/portfolio/static/js/main.9e8f9082.js.map"
   },
   "entrypoints": [
-    "static/css/main.59b38302.css",
-    "static/js/main.b6a8685d.js"
+    "static/css/main.74ac6619.css",
+    "static/js/main.9e8f9082.js"
   ]
 }
