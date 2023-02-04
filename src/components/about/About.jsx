@@ -2,8 +2,8 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { t } from "i18next";
 import "./about.css";
-import CVLT from "../../assets/Andrius CV LT.pdf";
-import CVEN from "../../assets/Andrius CV EN.pdf";
+import CVLT from "../../assets/Andrius Adomaitis CV LT.pdf";
+import CVEN from "../../assets/Andrius Adomaitis CV EN.pdf";
 import Diploma from "../../assets/CodeAcademy Java diplomas.pdf";
 
 const About = () => {
