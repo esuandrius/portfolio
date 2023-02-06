@@ -24,8 +24,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Java Spring</h3>
-              <span className="skills__level">{t("intermediate")}</span>
+              <h3 className="skills__name">Spring Boot</h3>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
 
@@ -35,6 +35,15 @@ const Backend = () => {
             <div>
               <h3 className="skills__name">Node JS</h3>
               <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">IntelliJ</h3>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
         </div>
@@ -64,6 +73,15 @@ const Backend = () => {
             <div>
               <h3 className="skills__name">Swagger</h3>
               <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Eclipse</h3>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
         </div>

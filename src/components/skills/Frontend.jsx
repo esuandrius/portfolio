@@ -34,7 +34,16 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">JavaScript</h3>
-              <span className="skills__level">{t("beginner")}</span>
+              <span className="skills__level">{t("intermediate")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">VS Code</h3>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
         </div>
@@ -55,6 +64,15 @@ const Frontend = () => {
             <div>
               <h3 className="skills__name">Git</h3>
               <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">GitHub</h3>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
 
