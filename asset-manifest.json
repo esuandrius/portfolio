@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.74ac6619.css",
-    "main.js": "/portfolio/static/js/main.e6f62eb3.js",
-    "static/media/Andrius Adomaitis CV LT.pdf": "/portfolio/static/media/Andrius Adomaitis CV LT.6250bb49865a9620f50e.pdf",
+    "main.js": "/portfolio/static/js/main.d09739ac.js",
+    "static/media/Andrius Adomaitis CV LT.pdf": "/portfolio/static/media/Andrius Adomaitis CV LT.b5366b8ddd3d3fbb791e.pdf",
     "static/media/Invoice.PNG": "/portfolio/static/media/Invoice.5cdc717f2a754b0fcd22.PNG",
     "static/media/about.jpg": "/portfolio/static/media/about.9d0f754d4eb80ce4aaad.jpg",
-    "static/media/Andrius Adomaitis CV EN.pdf": "/portfolio/static/media/Andrius Adomaitis CV EN.495ec02bf29b6e08b299.pdf",
+    "static/media/Andrius Adomaitis CV EN.pdf": "/portfolio/static/media/Andrius Adomaitis CV EN.3c255666d54ed53fa12a.pdf",
     "static/media/andrius.png": "/portfolio/static/media/andrius.3e5f10c7f12196850a91.png",
     "static/media/Invoice-backend.PNG": "/portfolio/static/media/Invoice-backend.a381ff004031cd4aa5ea.PNG",
     "static/media/CodeAcademy Java diplomas.pdf": "/portfolio/static/media/CodeAcademy Java diplomas.466989f6455979a9eb94.pdf",
@@ -14,10 +14,10 @@
     "static/media/csv-upload.PNG": "/portfolio/static/media/csv-upload.8b31c937158d34bffcaf.PNG",
     "index.html": "/portfolio/index.html",
     "main.74ac6619.css.map": "/portfolio/static/css/main.74ac6619.css.map",
-    "main.e6f62eb3.js.map": "/portfolio/static/js/main.e6f62eb3.js.map"
+    "main.d09739ac.js.map": "/portfolio/static/js/main.d09739ac.js.map"
   },
   "entrypoints": [
     "static/css/main.74ac6619.css",
-    "static/js/main.e6f62eb3.js"
+    "static/js/main.d09739ac.js"
   ]
 }
