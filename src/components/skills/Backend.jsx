@@ -15,6 +15,15 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
+              <h3 className="skills__name">Circle CI</h3>
+              <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
               <h3 className="skills__name">Java</h3>
               <span className="skills__level">{t("intermediate")}</span>
             </div>
@@ -82,6 +91,15 @@ const Backend = () => {
             <div>
               <h3 className="skills__name">Eclipse</h3>
               <span className="skills__level">{t("advanced")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Docker</h3>
+              <span className="skills__level">{t("beginner")}</span>
             </div>
           </div>
         </div>
