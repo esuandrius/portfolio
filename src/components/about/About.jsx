@@ -24,7 +24,7 @@ const About = () => {
           <span className="about__description">{t("cv-and-certificate")}</span>
           <br />
           <br />
-          <a
+          {/* <a
             download="Andrius Adomaitis CV LT"
             href={CVLT}
             className="button button--flex button-cv"
@@ -32,7 +32,7 @@ const About = () => {
           >
             CV LT
             <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
-          </a>
+          </a> */}
           <a
             download="Andrius Adomaitis CV EN"
             href={CVEN}
