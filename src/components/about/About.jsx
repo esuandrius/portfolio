@@ -6,8 +6,6 @@ import CVLT from "../../assets/Andrius Adomaitis CV LT.pdf";
 import CVEN from "../../assets/Andrius Adomaitis CV EN.pdf";
 import Diploma from "../../assets/CodeAcademy Java diplomas.pdf";
 
-// Hello
-
 const About = () => {
   const { i18n } = useTranslation();
 
