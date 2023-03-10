@@ -39,7 +39,7 @@ const About = () => {
             className="button button--flex button-cv"
             title={t("CV-EN")}
           >
-            CV EN
+            Andrius Adomaitis CV EN
             <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
           </a>
           <a

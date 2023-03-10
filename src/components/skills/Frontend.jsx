@@ -9,7 +9,7 @@ const Frontend = () => {
 
   return (
     <div className="skills__content">
-      <h3 className="skills__title">{t("frontend")}</h3>
+      {/* <h3 className="skills__title">{t("frontend")}</h3> */}
 
       <div className="skills__box">
         <div className="skills__group">
@@ -101,6 +101,15 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">Cucumber</h3>
+              <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Bitbucket</h3>
               <span className="skills__level">{t("beginner")}</span>
             </div>
           </div>
