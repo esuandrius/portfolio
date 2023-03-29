@@ -18,7 +18,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">Selenium</h3>
-              <span className="skills__level">{t("beginner")}</span>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
 
@@ -57,6 +57,15 @@ const Frontend = () => {
               <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Teams/Zoom</h3>
+              <span className="skills__level">{t("advanced")}</span>
+            </div>
+          </div>
         </div>
 
         <div className="skills__group">
@@ -74,7 +83,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">Git</h3>
-              <span className="skills__level">{t("beginner")}</span>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
 
@@ -110,7 +119,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">Bitbucket</h3>
-              <span className="skills__level">{t("beginner")}</span>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
         </div>
