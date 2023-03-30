@@ -33,6 +33,15 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
+              <h3 className="skills__name">Developer tools</h3>
+              <span className="skills__level">{t("advanced")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
               <h3 className="skills__name">Cucumber</h3>
               <span className="skills__level">{t("beginner")}</span>
             </div>
@@ -64,15 +73,6 @@ const Backend = () => {
               <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Slack</h3>
-              <span className="skills__level">{t("advanced")}</span>
-            </div>
-          </div>
         </div>
 
         <div className="skills__group">
@@ -90,15 +90,6 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Bitbucket </h3>
-              <span className="skills__level">{t("advanced")}</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Developer tools</h3>
               <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
@@ -136,6 +127,15 @@ const Backend = () => {
             <div>
               <h3 className="skills__name">JIRA</h3>
               <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Slack</h3>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
         </div>
