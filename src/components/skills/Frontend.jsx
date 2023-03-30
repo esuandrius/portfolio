@@ -5,8 +5,6 @@ import { t } from "i18next";
 const Frontend = () => {
   const { i18n } = useTranslation();
 
-  //testass
-
   return (
     <div className="skills__content">
       {/* <h3 className="skills__title">{t("frontend")}</h3> */}
