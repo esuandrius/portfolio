@@ -15,15 +15,6 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Selenium</h3>
-              <span className="skills__level">{t("advanced")}</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
               <h3 className="skills__name">HTML</h3>
               <span className="skills__level">{t("advanced")}</span>
             </div>
@@ -51,7 +42,25 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">VS Code</h3>
+              <h3 className="skills__name">React</h3>
+              <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Node JS</h3>
+              <span className="skills__level">{t("beginner")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Bootstrap</h3>
               <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
@@ -60,7 +69,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Teams/Zoom</h3>
+              <h3 className="skills__name">Material UI</h3>
               <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
@@ -71,8 +80,26 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Bootstrap</h3>
+              <h3 className="skills__name">Java</h3>
+              <span className="skills__level">{t("intermediate")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Spring</h3>
               <span className="skills__level">{t("advanced")}</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">MySQL</h3>
+              <span className="skills__level">{t("intermediate")}</span>
             </div>
           </div>
 
@@ -89,16 +116,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">GitHub</h3>
-              <span className="skills__level">{t("advanced")}</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">React</h3>
+              <h3 className="skills__name">Swagger</h3>
               <span className="skills__level">{t("beginner")}</span>
             </div>
           </div>
@@ -107,7 +125,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Cucumber</h3>
+              <h3 className="skills__name">Docker</h3>
               <span className="skills__level">{t("beginner")}</span>
             </div>
           </div>
@@ -116,8 +134,8 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Bitbucket</h3>
-              <span className="skills__level">{t("advanced")}</span>
+              <h3 className="skills__name">Maven</h3>
+              <span className="skills__level">{t("beginner")}</span>
             </div>
           </div>
         </div>
