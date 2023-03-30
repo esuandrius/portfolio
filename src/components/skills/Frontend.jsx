@@ -43,7 +43,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">React</h3>
-              <span className="skills__level">{t("beginner")}</span>
+              <span className="skills__level">{t("advanced")}</span>
             </div>
           </div>
 
