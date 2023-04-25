@@ -13,9 +13,9 @@ export const projectsData = [
   {
     id: 1,
     image: Work4,
-    title: "Sąskaitų išrašymo puslapis. BackEnd dalis",
+    title: "Invoice managment app. BE part",
     description:
-      "Baigiamasis darbas, kurį rašiau su kolegomis. Sąskaitų išrašymo puslapis. BackEnd darytas su Spring + MySQL",
+      "Invoice management app, created as final work with coleagues in CodeAcademy. Backend part: Spring + MySQL",
     category: "Spring",
     link: "https://github.com/esuandrius/invoice-backend",
     code: "https://github.com/esuandrius/invoice-backend",
@@ -23,9 +23,9 @@ export const projectsData = [
   {
     id: 2,
     image: Work3,
-    title: "Sąskaitų išrašymo puslapis. FrontEnd dalis",
+    title: "Invoice managment app. FE part",
     description:
-      "Baigiamasis darbas, kurį rašiau su kolegomis. Sąskaitų išrašymo puslapis. FrontEnd darytas su React",
+      "Invoice management app, created as final work with coleagues in CodeAcademy. Frontend part: React, CSS, HTML",
     category: "React",
     link: "https://github.com/esuandrius/invoice-frontend",
     code: "https://github.com/esuandrius/invoice-frontend",
@@ -33,9 +33,9 @@ export const projectsData = [
   {
     id: 3,
     image: Work2,
-    title: "Portfolio puslapis",
+    title: "Portfolio website",
     description:
-      "Paprastas portfolio puslapis, padarytas naudojant React JS, HTML ir CSS. Dvi kalbos - lietuvių ir anglų.",
+      "Single page portfolio website, made with React, HTML ir CSS only. Bilingual - lithuanian and english.",
     category: "React",
     link: "https://esuandrius.github.io/portfolio/",
     code: "https://github.com/esuandrius/portfolio",
@@ -43,9 +43,9 @@ export const projectsData = [
   {
     id: 4,
     image: Work1,
-    title: "Investicijų skaičiuoklė",
+    title: "Ethereum investment calculator",
     description:
-      "Paprasta Ethereum investicijų skaičiuoklė, padaryta su Spring + ThymeLeaf. CSV failo exporto galimybė.",
+      "Simple investment calculator, made with Spring + ThymeLeaf. Ability to export CSV file.",
     category: "Spring",
     link: "https://github.com/esuandrius/RewardCalculator",
     code: "https://github.com/esuandrius/RewardCalculator",
@@ -53,9 +53,9 @@ export const projectsData = [
   {
     id: 5,
     image: Work5,
-    title: "CSV failo užkrovimas",
+    title: "CSV with employees data file upload",
     description:
-      "CSV failo su darbuotojų informacija įkėlimas React, perdavimas į Spring, kur informacija įrašoma į H2 duomenų bazę. Tuomet duomenys grąžinami atgal į React ir vizualizuojami HTML lentelėje",
+      "CSV file upload in React and visualize in html table. For backend part Spring + internal H2 memory base.",
     category: "Spring + React",
     link: "https://github.com/esuandrius/CSV-Upload",
     code: "https://github.com/esuandrius/CSV-Upload",
