@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.74ac6619.css",
-    "main.js": "/portfolio/static/js/main.4069f1e5.js",
-    "static/media/Andrius Adomaitis CV LT.pdf": "/portfolio/static/media/Andrius Adomaitis CV LT.596087f8c665afefcb0d.pdf",
+    "main.js": "/portfolio/static/js/main.a44a33db.js",
     "static/media/Invoice.PNG": "/portfolio/static/media/Invoice.5cdc717f2a754b0fcd22.PNG",
     "static/media/about.jpg": "/portfolio/static/media/about.9d0f754d4eb80ce4aaad.jpg",
     "static/media/andrius.png": "/portfolio/static/media/andrius.3e5f10c7f12196850a91.png",
     "static/media/Invoice-backend.PNG": "/portfolio/static/media/Invoice-backend.a381ff004031cd4aa5ea.PNG",
-    "static/media/Andrius Adomaitis CV EN.pdf": "/portfolio/static/media/Andrius Adomaitis CV EN.5129a85d969a7920f283.pdf",
+    "static/media/Andrius Adomaitis CV EN.pdf": "/portfolio/static/media/Andrius Adomaitis CV EN.a3d7625f0e9c59fa2659.pdf",
     "static/media/CodeAcademy Java diplomas.pdf": "/portfolio/static/media/CodeAcademy Java diplomas.466989f6455979a9eb94.pdf",
     "static/media/portfolio-website.PNG": "/portfolio/static/media/portfolio-website.e05db9c8c1383aa59486.PNG",
     "static/media/investment calculator.PNG": "/portfolio/static/media/investment calculator.66b5250b61fbd45a2811.PNG",
     "static/media/csv-upload.PNG": "/portfolio/static/media/csv-upload.8b31c937158d34bffcaf.PNG",
     "index.html": "/portfolio/index.html",
     "main.74ac6619.css.map": "/portfolio/static/css/main.74ac6619.css.map",
-    "main.4069f1e5.js.map": "/portfolio/static/js/main.4069f1e5.js.map"
+    "main.a44a33db.js.map": "/portfolio/static/js/main.a44a33db.js.map"
   },
   "entrypoints": [
     "static/css/main.74ac6619.css",
-    "static/js/main.4069f1e5.js"
+    "static/js/main.a44a33db.js"
   ]
 }
