@@ -2,7 +2,6 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { t } from "i18next";
 import "./about.css";
-import CVLT from "../../assets/Andrius Adomaitis CV LT.pdf";
 import CVEN from "../../assets/Andrius Adomaitis CV EN.pdf";
 import Diploma from "../../assets/CodeAcademy Java diplomas.pdf";
 
@@ -24,15 +23,6 @@ const About = () => {
           <span className="about__description">{t("cv-and-certificate")}</span>
           <br />
           <br />
-          {/* <a
-            download="Andrius Adomaitis CV LT"
-            href={CVLT}
-            className="button button--flex button-cv"
-            title={t("CV-LT")}
-          >
-            CV LT
-            <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
-          </a> */}
           <a
             download="Andrius Adomaitis CV EN"
             href={CVEN}
