@@ -3,7 +3,8 @@ import { useTranslation } from "react-i18next";
 import { t } from "i18next";
 import "./about.css";
 import CVEN from "../../assets/Andrius Adomaitis CV EN.pdf";
-import Diploma from "../../assets/CodeAcademy Java diplomas.pdf";
+import CodeAcademy from "../../assets/CodeAcademy Java diplomas.pdf";
+import SourceryAcademy from "../../assets/Sourcery Academy diplomas.pdf";
 
 const About = () => {
   const { i18n } = useTranslation();
@@ -23,22 +24,33 @@ const About = () => {
           <span className="about__description">{t("cv-and-certificate")}</span>
           <br />
           <br />
+
+          <a
+            download="CodeAcademy diplomas"
+            href={CodeAcademy}
+            className="button button--flex button-cv button-cv-certificate"
+            title={t("codeacademy-diploma")}
+          >
+            {t("certificate-codeacademy")}
+            <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
+          </a>
+          <a
+            download="Sourcery Academy diplomas"
+            href={CodeAcademy}
+            className="button button--flex button-cv button-cv-certificate"
+            title={t("sourceryacademy-diploma")}
+          >
+            {t("certificate-sourcery")}
+            <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
+          </a>
           <a
             download="Andrius Adomaitis CV EN"
             href={CVEN}
             className="button button--flex button-cv"
             title={t("CV-EN")}
+            style={{ marginTop: 10 }}
           >
             Andrius Adomaitis CV EN
-            <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
-          </a>
-          <a
-            download="CodeAcademy Java diplomas"
-            href={Diploma}
-            className="button button--flex button-cv button-cv-certificate"
-            title={t("java-certificate")}
-          >
-            {t("certificate")}
             <i style={{ marginLeft: 10 }} class="uil uil-download-alt"></i>
           </a>
         </div>
